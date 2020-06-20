@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pomber/git-history)
+
 <div align="center">
 <a href="https://github.githistory.xyz/torvalds/linux/blob/master/kernel/up.c">
 <img alt="demo" src="https://user-images.githubusercontent.com/1911623/54575634-9b10b000-49d3-11e9-8a19-56e40636e45d.gif" width="600" />
