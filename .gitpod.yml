@@ -7,3 +7,7 @@ tasks:
       gp preview $(gp url 3000)babel/babel/blob/master/packages/babel-core/test/browserify.js
   - init: yarn
     command: yarn start
+
+vscode:
+  extensions:
+    - vsls-contrib.codetour@0.0.33:iE864lCLSbwy9cG9lCgaYw==
