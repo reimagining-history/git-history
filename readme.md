@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pomber/git-history)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/reimagining-history/git-history)
 
 <div align="center">
 <a href="https://github.githistory.xyz/torvalds/linux/blob/master/kernel/up.c">
